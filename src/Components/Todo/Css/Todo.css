@@ -1,0 +1,10 @@
+@import url("https://unpkg.com/bootstrap@5.2.2/dist/css/bootstrap.min.css");
+
+.container {
+  height: 600px;
+  width: 100%;
+}
+.container-error {
+  height: 600px;
+  width: 100%;
+}

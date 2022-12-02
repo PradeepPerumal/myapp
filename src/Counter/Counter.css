@@ -1,0 +1,16 @@
+.incButton {
+  background-color: aqua;
+  color: blue;
+  font-size: 25px;
+  font-weight: 500;
+  padding: 15px 20px;
+  margin: 20px 20px;
+}
+
+.incValue {
+  margin-left: 20px;
+}
+
+.counter {
+  font-size: 25px;
+}
